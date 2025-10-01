@@ -1,8 +1,8 @@
  CS50SQL-FinalProject
  --------------------------
 
- Youtube Video Link : 
----------------------------------------
+ Youtube Video Link : https://youtu.be/YfblTx9nuYE
+-----------------------------------------------------
 
 
  Project Overview
